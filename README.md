@@ -17,4 +17,5 @@ https://www.tutorialspoint.com/data_structures_algorithms/binary_search_tree.htm
 or
 http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/binarySearchTree.htm
 
-And also the PDF photos attached.
+The bs2.png is representation of insert method.
+The bs3.png is the example of justified tree.
